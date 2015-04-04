@@ -1,0 +1,40 @@
+﻿Build started 04/04/2015 06:31:38 PM.
+     1>Project "C:\Users\Hayden\Documents\Visual Studio 2013\Projects\GameDevGraphics\IceEngine\IceEngine.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Camera2D.cpp Errors.cpp GLSLProgram.cpp IceEngine.cpp ImageLoader.cpp InputManager.cpp IOManager.cpp picoPNG.cpp ResourceManager.cpp Sprite.cpp SpriteBatch.cpp TextureCache.cpp Timing.cpp Window.cpp
+         Window.cpp
+         Timing.cpp
+         TextureCache.cpp
+         SpriteBatch.cpp
+         Sprite.cpp
+         ResourceManager.cpp
+         picoPNG.cpp
+         IOManager.cpp
+         InputManager.cpp
+         ImageLoader.cpp
+         IceEngine.cpp
+         GLSLProgram.cpp
+         Errors.cpp
+         Camera2D.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Hayden\Documents\Visual Studio 2013\Projects\GameDevGraphics\Debug\IceEngine.lib" /NOLOGO Debug\Camera2D.obj
+         Debug\Errors.obj
+         Debug\GLSLProgram.obj
+         Debug\IceEngine.obj
+         Debug\ImageLoader.obj
+         Debug\InputManager.obj
+         Debug\IOManager.obj
+         Debug\picoPNG.obj
+         Debug\ResourceManager.obj
+         Debug\Sprite.obj
+         Debug\SpriteBatch.obj
+         Debug\TextureCache.obj
+         Debug\Timing.obj
+         Debug\Window.obj
+         IceEngine.vcxproj -> C:\Users\Hayden\Documents\Visual Studio 2013\Projects\GameDevGraphics\Debug\IceEngine.lib
+     1>Done Building Project "C:\Users\Hayden\Documents\Visual Studio 2013\Projects\GameDevGraphics\IceEngine\IceEngine.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.09
